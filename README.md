@@ -19,9 +19,10 @@ https://job-skill-recommender-a9kpz52cqjq8ndbikdappgy.streamlit.app/
 ---
 
 ## 🛠️ Tech Stack
-- Python
-- Streamlit
-- Pandas
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Status](https://img.shields.io/badge/Status-Live-success)
 
 ---
 
