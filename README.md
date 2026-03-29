@@ -1,6 +1,12 @@
 # job-skill-recommender
 # 🚀 Job Market Skill Recommender
 
+[Python](https://img.shields.io/badge/Python-3.9-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Status](https://img.shields.io/badge/Status-Live-success)
+
+
 A data-driven web application that recommends in-demand skills based on real job market data.
 
 ---
@@ -19,11 +25,10 @@ https://job-skill-recommender-a9kpz52cqjq8ndbikdappgy.streamlit.app/
 ---
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-![Status](https://img.shields.io/badge/Status-Live-success)
-
+- 🐍 Python  
+- 🌐 Streamlit  
+- 📊 Pandas  
+- 📈 Data Analysis  
 ---
 
 ## 🚀 How It Works
