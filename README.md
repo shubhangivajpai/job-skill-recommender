@@ -38,11 +38,15 @@ Input:
 python
 
 Output:
--sql
--data analysis
--machine learning
--aws
+sql
+data analysis
+machine learning
+aws
 
+
+## 📸 App Preview
+
+![App Screenshot](app.png)
 
 
 ## 🤝 Contributing
