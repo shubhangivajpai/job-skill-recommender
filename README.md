@@ -46,7 +46,7 @@ aws
 
 ## 📸 App Preview
 
-![App Screenshot](app.png)
+![App Screenshot](App.png)
 
 
 ## 🤝 Contributing
